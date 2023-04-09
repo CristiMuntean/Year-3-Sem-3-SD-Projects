@@ -1,0 +1,4 @@
+id:1,brand:car,modelName:car,color:car,fuelType:car
+id:2,brand:acar,modelName:acar,color:acar,fuelType:acar
+id:3,brand:newcar,modelName:newcar,color:newcar,fuelType:newcar
+id:4,brand:3,modelName:3,color:3,fuelType:3

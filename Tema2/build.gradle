@@ -1,0 +1,30 @@
+plugins {
+    id 'java'
+}
+
+group 'org.tema1'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.jetbrains:annotations:23.0.0'
+    testCompileOnly(
+            'junit:junit:4.12',
+            'org.codehaus.groovy:groovy-all:2.4.11',
+            'org.spockframework:spock-core:1.1-groovy-2.4'
+    )
+    implementation(
+            group: 'mysql', name: 'mysql-connector-java', version: '8.0.32',
+            'com.github.sergeds:swing-mvvm:1.0.0'
+    )
+
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+}
+
+test {
+    useJUnitPlatform()
+}

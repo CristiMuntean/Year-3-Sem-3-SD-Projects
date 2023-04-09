@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carList>
+    <car>
+        <id>1</id>
+        <brand>car</brand>
+        <modelName>car</modelName>
+        <color>car</color>
+        <fuelType>car</fuelType>
+    </car>
+    <car>
+        <id>2</id>
+        <brand>acar</brand>
+        <modelName>acar</modelName>
+        <color>acar</color>
+        <fuelType>acar</fuelType>
+    </car>
+    <car>
+        <id>3</id>
+        <brand>newcar</brand>
+        <modelName>newcar</modelName>
+        <color>newcar</color>
+        <fuelType>newcar</fuelType>
+    </car>
+    <car>
+        <id>4</id>
+        <brand>bmw</brand>
+        <modelName>e63</modelName>
+        <color>green</color>
+        <fuelType>gasoline</fuelType>
+    </car>
+</carList>
