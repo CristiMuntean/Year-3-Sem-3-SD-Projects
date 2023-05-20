@@ -1,0 +1,95 @@
+<EnglishLanguage>
+    <changeLanguageEnglishButton>Inglese</changeLanguageEnglishButton>
+    <changeLanguageRomanianButton>Rumeno</changeLanguageRomanianButton>
+    <changeLanguageItalianButton>Italiano</changeLanguageItalianButton>
+    <loginTitleLabel>Accedi al tuo account</loginTitleLabel>
+    <loginWrongAccountLabel>Combinazione errata di nome utente e password</loginWrongAccountLabel>
+    <loginUsernameLabel>Nome utente</loginUsernameLabel>
+    <loginPasswordLabel>Parola d'ordine</loginPasswordLabel>
+    <loginShowPassword>Mostra password</loginShowPassword>
+    <loginLoginButton>Login</loginLoginButton>
+    <loginRegisterLabel>Non hai un account? Iscriviti ora!</loginRegisterLabel>
+    <loginRegisterButton>Iscrizione</loginRegisterButton>
+    <adminTitleLabel>Finestra dell'amministratore</adminTitleLabel>
+    <userFields>
+        <id>id</id>
+        <username>nome utente</username>
+        <password>parola d'ordine</password>
+        <role>ruolo</role>
+        <email>email</email>
+        <phoneNumber>numero di telefono</phoneNumber>
+    </userFields>
+    <adminFilterLabel>Filtra gli utenti per:</adminFilterLabel>
+    <adminFilterComboBox>Ruolo</adminFilterComboBox>
+    <adminUserOperationsButton>Operazioni per utente</adminUserOperationsButton>
+    <adminNotifyButton>Avvisare gli utenti</adminNotifyButton>
+    <logOutButton>Disconnessione</logOutButton>
+    <submitButton>Inviare</submitButton>
+    <userOperationsTitle>Operazioni sugli utenti</userOperationsTitle>
+    <userOperationsAddButton>Aggiungi un nuovo utente</userOperationsAddButton>
+    <userOperationsEditButton>Modifica l'utente selezionato</userOperationsEditButton>
+    <userOperationsDeleteButton>Elimina l'utente selezionato</userOperationsDeleteButton>
+    <managerTitleLabel>Finestra del gestore</managerTitleLabel>
+    <sortLabel>Ordina la tabella delle auto per:</sortLabel>
+    <sortBrandCheckBox>segno</sortBrandCheckBox>
+    <sortFuelTypeCheckBox>Tipo di carburante</sortFuelTypeCheckBox>
+    <filterLabel>Seleziona i filtri da applicare nella tabella sopra:</filterLabel>
+    <filterOwnerComboBox>Proprietario</filterOwnerComboBox>
+    <filterBrandComboBox>segno</filterBrandComboBox>
+    <filterFuelTypeComboBox>Tipo di carburante</filterFuelTypeComboBox>
+    <filterColorComboBox>Colore</filterColorComboBox>
+    <searchLabel>Cerca auto per proprietario:</searchLabel>
+    <saveButton>Salva le informazioni sull'auto nel formato:</saveButton>
+    <managerStatisticsButton>Statistiche sulle auto</managerStatisticsButton>
+    <brandsStatisticsTitle>Marchi automobilistici in servizio</brandsStatisticsTitle>
+    <fuelStatisticsTitle>Tipo di carburante delle auto in servizio</fuelStatisticsTitle>
+    <colorStatisticsTitle>Colore delle auto in servizio</colorStatisticsTitle>
+    <colorStatisticsColorAxisLabel>Colore</colorStatisticsColorAxisLabel>
+    <colorStatisticsNumberOfCarsAxisLabel>Numero di auto</colorStatisticsNumberOfCarsAxisLabel>
+    <brandsStatisticsButton>Statistiche del marchio</brandsStatisticsButton>
+    <fuelStatisticsButton>Statistiche sul carburante</fuelStatisticsButton>
+    <colorStatisticsButton>Statistiche sui colori</colorStatisticsButton>
+    <employeeTitleLabel>Finestra dei dipendenti</employeeTitleLabel>
+    <carJoinedOwnerFields>
+        <serviceNumber>numero di servizio</serviceNumber>
+        <carId>numero di servizio</carId>
+        <brand>segno</brand>
+        <modelName>il nome del modello di auto</modelName>
+        <color>colore</color>
+        <fuelType>tipo di carburante</fuelType>
+        <cnp>cnp</cnp>
+        <carOwner>proprietario dell'auto</carOwner>
+    </carJoinedOwnerFields>
+    <ownerOperationsButton>Operazioni sui proprietari</ownerOperationsButton>
+    <carOperationsButton>Operazioni a macchina</carOperationsButton>
+    <serviceOperationsButton>Operazioni di servizio</serviceOperationsButton>
+    <ownerFields>
+        <cnp>cnp</cnp>
+        <name>nome di battesimo</name>
+        <surname>cognome</surname>
+    </ownerFields>
+    <ownerOperationsTitle>Operazioni sui proprietari</ownerOperationsTitle>
+    <ownerOperationsAddButton>Aggiungi un nuovo proprietario</ownerOperationsAddButton>
+    <ownerOperationsEditButton>Cambia il proprietario selezionato</ownerOperationsEditButton>
+    <ownerOperationsDeleteButton>Elimina il proprietario selezionato</ownerOperationsDeleteButton>
+    <carFields>
+        <id>id</id>
+        <brand>segno</brand>
+        <modelName>il nome del modello di auto</modelName>
+        <color>colore</color>
+        <fuelType>tipo di carburante</fuelType>
+    </carFields>
+    <carOperationsTitle>Operazioni a macchina</carOperationsTitle>
+    <carOperationsAddButton>Aggiungi una nuova auto</carOperationsAddButton>
+    <carOperationsEditButton>Modifica l'auto selezionata</carOperationsEditButton>
+    <carOperationsDeleteButton>Elimina l'auto selezionata</carOperationsDeleteButton>
+    <serviceLogFields>
+        <serviceNumber>numero di servizio</serviceNumber>
+        <ownerCnp>proprietario cnp</ownerCnp>
+        <carId>documento di identità dell'auto</carId>
+    </serviceLogFields>
+    <serviceOperationsTitle>Operazioni di servizio</serviceOperationsTitle>
+    <serviceOperationsAddButton>Aggiungi una nuova voce di servizio</serviceOperationsAddButton>
+    <serviceOperationsEditButton>Modifica la voce di servizio selezionata</serviceOperationsEditButton>
+    <serviceOperationsDeleteButton>Elimina la voce selezionata dal servizio</serviceOperationsDeleteButton>
+</EnglishLanguage>
