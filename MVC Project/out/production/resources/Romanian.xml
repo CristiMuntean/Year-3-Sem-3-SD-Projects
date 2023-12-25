@@ -1,0 +1,95 @@
+<EnglishLanguage>
+    <changeLanguageEnglishButton>Engleza</changeLanguageEnglishButton>
+    <changeLanguageRomanianButton>Romana</changeLanguageRomanianButton>
+    <changeLanguageItalianButton>Italiana</changeLanguageItalianButton>
+    <loginTitleLabel>Conecteaza-te la contul tau</loginTitleLabel>
+    <loginWrongAccountLabel>Combinație greșită de nume de utilizator și parolă</loginWrongAccountLabel>
+    <loginUsernameLabel>Nume de utilizator</loginUsernameLabel>
+    <loginPasswordLabel>Parola</loginPasswordLabel>
+    <loginShowPassword>Arata parola</loginShowPassword>
+    <loginLoginButton>Conecteaza-te</loginLoginButton>
+    <loginRegisterLabel>Nu ai un cont? Înregistrează-te acum!</loginRegisterLabel>
+    <loginRegisterButton>Înregistrează-te</loginRegisterButton>
+    <adminTitleLabel>Fereastra de administrator</adminTitleLabel>
+    <userFields>
+        <id>id</id>
+        <username>nume de utilizator</username>
+        <password>parola</password>
+        <role>rol</role>
+        <email>email</email>
+        <phoneNumber>numar de telefon</phoneNumber>
+    </userFields>
+    <adminFilterLabel>Filtrați utilizatorii după:</adminFilterLabel>
+    <adminFilterComboBox>Rol</adminFilterComboBox>
+    <adminUserOperationsButton>Operații pe utilizator</adminUserOperationsButton>
+    <adminNotifyButton>Notificați utilizatorii</adminNotifyButton>
+    <logOutButton>Deconecteaza-te</logOutButton>
+    <submitButton>Trimite</submitButton>
+    <userOperationsTitle>Operatii pe utilizatori</userOperationsTitle>
+    <userOperationsAddButton>Adauga un utilizator nou</userOperationsAddButton>
+    <userOperationsEditButton>Modifica utilizatorul selectat</userOperationsEditButton>
+    <userOperationsDeleteButton>Sterge utilizatorul selectat</userOperationsDeleteButton>
+    <managerTitleLabel>Fereastra manager</managerTitleLabel>
+    <sortLabel>Sortați tabelul de mașini după:</sortLabel>
+    <sortBrandCheckBox>Marca</sortBrandCheckBox>
+    <sortFuelTypeCheckBox>Tip de combustibil</sortFuelTypeCheckBox>
+    <filterLabel>Selectați filtrele de aplicat în tabelul de mai sus:</filterLabel>
+    <filterOwnerComboBox>Proprietar</filterOwnerComboBox>
+    <filterBrandComboBox>Marca</filterBrandComboBox>
+    <filterFuelTypeComboBox>Tip de combustibil</filterFuelTypeComboBox>
+    <filterColorComboBox>Culoare</filterColorComboBox>
+    <searchLabel>Căutați mașini după proprietar:</searchLabel>
+    <saveButton>Salvați informațiile despre mașină în formatul:</saveButton>
+    <managerStatisticsButton>Statistici despre masini</managerStatisticsButton>
+    <brandsStatisticsTitle>Mărci de mașini în service</brandsStatisticsTitle>
+    <fuelStatisticsTitle>Tipul de combustibil al mașinilor în service</fuelStatisticsTitle>
+    <colorStatisticsTitle>Culoarea mașinilor în service</colorStatisticsTitle>
+    <colorStatisticsColorAxisLabel>Culoare</colorStatisticsColorAxisLabel>
+    <colorStatisticsNumberOfCarsAxisLabel>Numar de masini</colorStatisticsNumberOfCarsAxisLabel>
+    <brandsStatisticsButton>Statistici despre mărci</brandsStatisticsButton>
+    <fuelStatisticsButton>Statistici despre combustibili</fuelStatisticsButton>
+    <colorStatisticsButton>Statistici despre culoare</colorStatisticsButton>
+    <employeeTitleLabel>Fereastra angajat</employeeTitleLabel>
+    <carJoinedOwnerFields>
+        <serviceNumber>numar de service</serviceNumber>
+        <carId>id masina</carId>
+        <brand>marca</brand>
+        <modelName>numele modelului masinii</modelName>
+        <color>culoare</color>
+        <fuelType>tip de combustibil</fuelType>
+        <cnp>cnp</cnp>
+        <carOwner>proprietar masina</carOwner>
+    </carJoinedOwnerFields>
+    <ownerOperationsButton>Operatii pe proprietari</ownerOperationsButton>
+    <carOperationsButton>Operatii pe masini</carOperationsButton>
+    <serviceOperationsButton>Operatii pe service</serviceOperationsButton>
+    <ownerFields>
+        <cnp>cnp</cnp>
+        <name>prenume</name>
+        <surname>nume de familie</surname>
+    </ownerFields>
+    <ownerOperationsTitle>Operatii pe proprietari</ownerOperationsTitle>
+    <ownerOperationsAddButton>Adauga un proprietar nou</ownerOperationsAddButton>
+    <ownerOperationsEditButton>Modifica proprietarul selectat</ownerOperationsEditButton>
+    <ownerOperationsDeleteButton>Sterge proprietarul selectat</ownerOperationsDeleteButton>
+    <carFields>
+        <id>id</id>
+        <brand>marca</brand>
+        <modelName>numele modelului masinii</modelName>
+        <color>culoare</color>
+        <fuelType>tip de combustibil</fuelType>
+    </carFields>
+    <carOperationsTitle>Operatii pe masini</carOperationsTitle>
+    <carOperationsAddButton>Adauga o masina noua</carOperationsAddButton>
+    <carOperationsEditButton>Modifica masina selectata</carOperationsEditButton>
+    <carOperationsDeleteButton>Sterge masina selectata</carOperationsDeleteButton>
+    <serviceLogFields>
+        <serviceNumber>numar de service</serviceNumber>
+        <ownerCnp>cnp proprietar</ownerCnp>
+        <carId>id masina</carId>
+    </serviceLogFields>
+    <serviceOperationsTitle>Operatii pe service</serviceOperationsTitle>
+    <serviceOperationsAddButton>Adauga o intrare noua in service</serviceOperationsAddButton>
+    <serviceOperationsEditButton>Modifica intrarea selectata din service</serviceOperationsEditButton>
+    <serviceOperationsDeleteButton>Sterge intrarea selectata din service</serviceOperationsDeleteButton>
+</EnglishLanguage>

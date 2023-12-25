@@ -1,0 +1,11 @@
+Id,brand,modelName,color,fuelType
+1,mercedes,cls,black,diesel
+10,mercedes,g63,black,diesel
+2,nissan,silvia s15,white,gasoline
+3,nissan,gtr,black,diesel
+4,bmw,e36,purple,gasoline
+5,bmw,m3,blue,diesel
+6,audi,e-tron,yellow,electric
+7,mazda,mx5,red,gasoline
+8,mazda,rx7,grey,gasoline
+9,ferrari,f40,red,gasoline

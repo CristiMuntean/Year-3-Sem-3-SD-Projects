@@ -1,0 +1,95 @@
+<EnglishLanguage>
+    <changeLanguageEnglishButton>English</changeLanguageEnglishButton>
+    <changeLanguageRomanianButton>Romanian</changeLanguageRomanianButton>
+    <changeLanguageItalianButton>Italian</changeLanguageItalianButton>
+    <loginTitleLabel>Login to your account</loginTitleLabel>
+    <loginWrongAccountLabel>Wrong username and password combination</loginWrongAccountLabel>
+    <loginUsernameLabel>Username</loginUsernameLabel>
+    <loginPasswordLabel>Password</loginPasswordLabel>
+    <loginShowPassword>Show password</loginShowPassword>
+    <loginLoginButton>Login</loginLoginButton>
+    <loginRegisterLabel>Don't have an account? Register now!</loginRegisterLabel>
+    <loginRegisterButton>Register</loginRegisterButton>
+    <adminTitleLabel>Admin Window</adminTitleLabel>
+    <userFields>
+        <id>id</id>
+        <username>username</username>
+        <password>password</password>
+        <role>role</role>
+        <email>email</email>
+        <phoneNumber>phone number</phoneNumber>
+    </userFields>
+    <adminFilterLabel>Filter users by:</adminFilterLabel>
+    <adminFilterComboBox>Role</adminFilterComboBox>
+    <adminUserOperationsButton>User operations</adminUserOperationsButton>
+    <adminNotifyButton>Notify users</adminNotifyButton>
+    <logOutButton>Log Out</logOutButton>
+    <submitButton>Submit</submitButton>
+    <userOperationsTitle>User operations</userOperationsTitle>
+    <userOperationsAddButton>Add a new user</userOperationsAddButton>
+    <userOperationsEditButton>Update selected user</userOperationsEditButton>
+    <userOperationsDeleteButton>Delete selected user</userOperationsDeleteButton>
+    <managerTitleLabel>Manager View</managerTitleLabel>
+    <sortLabel>Sort car table by:</sortLabel>
+    <sortBrandCheckBox>Brand</sortBrandCheckBox>
+    <sortFuelTypeCheckBox>Fuel Type</sortFuelTypeCheckBox>
+    <filterLabel>Select filters to apply on the table above:</filterLabel>
+    <filterOwnerComboBox>Owner</filterOwnerComboBox>
+    <filterBrandComboBox>Brand</filterBrandComboBox>
+    <filterFuelTypeComboBox>Fuel Type</filterFuelTypeComboBox>
+    <filterColorComboBox>Color</filterColorComboBox>
+    <searchLabel>Search cars by owner:</searchLabel>
+    <saveButton>Save car info in format</saveButton>
+    <managerStatisticsButton>Car statistics</managerStatisticsButton>
+    <brandsStatisticsTitle>Car brands in service</brandsStatisticsTitle>
+    <fuelStatisticsTitle>Fuel type of cars in service</fuelStatisticsTitle>
+    <colorStatisticsTitle>Color of cars in service</colorStatisticsTitle>
+    <colorStatisticsColorAxisLabel>Color</colorStatisticsColorAxisLabel>
+    <colorStatisticsNumberOfCarsAxisLabel>Number of cars</colorStatisticsNumberOfCarsAxisLabel>
+    <brandsStatisticsButton>Brand statistics</brandsStatisticsButton>
+    <fuelStatisticsButton>Fuel statistics</fuelStatisticsButton>
+    <colorStatisticsButton>Color statistics</colorStatisticsButton>
+    <employeeTitleLabel>Employee window</employeeTitleLabel>
+    <carJoinedOwnerFields>
+        <serviceNumber>serviceNumber</serviceNumber>
+        <carId>carId</carId>
+        <brand>brand</brand>
+        <modelName>modelName</modelName>
+        <color>color</color>
+        <fuelType>fuelType</fuelType>
+        <cnp>cnp</cnp>
+        <carOwner>carOwner</carOwner>
+    </carJoinedOwnerFields>
+    <ownerOperationsButton>Owner operations</ownerOperationsButton>
+    <carOperationsButton>Car operations</carOperationsButton>
+    <serviceOperationsButton>Service operations</serviceOperationsButton>
+    <ownerFields>
+        <cnp>cnp</cnp>
+        <name>name</name>
+        <surname>surname</surname>
+    </ownerFields>
+    <ownerOperationsTitle>Owner operations</ownerOperationsTitle>
+    <ownerOperationsAddButton>Add a new Owner</ownerOperationsAddButton>
+    <ownerOperationsEditButton>Update selected Owner</ownerOperationsEditButton>
+    <ownerOperationsDeleteButton>Delete selected Owner</ownerOperationsDeleteButton>
+    <carFields>
+        <id>id</id>
+        <brand>brand</brand>
+        <modelName>modelName</modelName>
+        <color>color</color>
+        <fuelType>fuelType</fuelType>
+    </carFields>
+    <carOperationsTitle>Car operations</carOperationsTitle>
+    <carOperationsAddButton>Add a new Car</carOperationsAddButton>
+    <carOperationsEditButton>Update selected Car</carOperationsEditButton>
+    <carOperationsDeleteButton>Delete selected Car</carOperationsDeleteButton>
+    <serviceLogFields>
+        <serviceNumber>serviceNumber</serviceNumber>
+        <ownerCnp>ownerCnp</ownerCnp>
+        <carId>carId</carId>
+    </serviceLogFields>
+    <serviceOperationsTitle>ServiceLog operations</serviceOperationsTitle>
+    <serviceOperationsAddButton>Add a new ServiceLog</serviceOperationsAddButton>
+    <serviceOperationsEditButton>Update selected ServiceLog</serviceOperationsEditButton>
+    <serviceOperationsDeleteButton>Delete selected ServiceLog</serviceOperationsDeleteButton>
+</EnglishLanguage>

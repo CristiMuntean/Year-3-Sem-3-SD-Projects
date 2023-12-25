@@ -1,0 +1,74 @@
+{
+    "carList": {
+        "car": {
+            "id": "1",
+            "brand": "mercedes",
+            "modelName": "cls",
+            "color": "black",
+            "fuelType": "diesel"
+        },
+        "car": {
+            "id": "10",
+            "brand": "mercedes",
+            "modelName": "g63",
+            "color": "black",
+            "fuelType": "diesel"
+        },
+        "car": {
+            "id": "2",
+            "brand": "nissan",
+            "modelName": "silvia s15",
+            "color": "white",
+            "fuelType": "gasoline"
+        },
+        "car": {
+            "id": "3",
+            "brand": "nissan",
+            "modelName": "gtr",
+            "color": "black",
+            "fuelType": "diesel"
+        },
+        "car": {
+            "id": "4",
+            "brand": "bmw",
+            "modelName": "e36",
+            "color": "purple",
+            "fuelType": "gasoline"
+        },
+        "car": {
+            "id": "5",
+            "brand": "bmw",
+            "modelName": "m3",
+            "color": "blue",
+            "fuelType": "diesel"
+        },
+        "car": {
+            "id": "6",
+            "brand": "audi",
+            "modelName": "e-tron",
+            "color": "yellow",
+            "fuelType": "electric"
+        },
+        "car": {
+            "id": "7",
+            "brand": "mazda",
+            "modelName": "mx5",
+            "color": "red",
+            "fuelType": "gasoline"
+        },
+        "car": {
+            "id": "8",
+            "brand": "mazda",
+            "modelName": "rx7",
+            "color": "grey",
+            "fuelType": "gasoline"
+        },
+        "car": {
+            "id": "9",
+            "brand": "ferrari",
+            "modelName": "f40",
+            "color": "red",
+            "fuelType": "gasoline"
+        }
+    }
+}
